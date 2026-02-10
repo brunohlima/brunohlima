@@ -1,23 +1,18 @@
-### Olá! Meu nome é Bruno Henrique 🤙🏼
+## 👋 Sobre mim
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunohlimag_/)
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brunohlima/)
+Atualmente trabalho com **Suporte Técnico**, atuando como ponto de conexão entre usuários, sistemas e processos, com foco na **resolução de problemas**, **análise de falhas** e **melhoria contínua**. Essa experiência me permitiu desenvolver uma visão analítica sobre o comportamento dos sistemas e o impacto direto de erros e inconsistências na **experiência do usuário**.
 
-![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=brunohlima&show_icons=true&theme=dark)
+Possuo vivência em **atendimento ao cliente**, **análise de incidentes**, **priorização de demandas** e **acompanhamento de chamados**, sempre buscando identificar a causa raiz dos problemas e propor soluções mais eficientes e sustentáveis.
 
-## Minhas Tecnologias atualmente
+Estou em **transição para a área de Quality Assurance (QA)**, com foco em **testes manuais** e **testes de API**, direcionando meus estudos para:
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  
-</div><br>
+- **Validação e análise de requisitos**
+- **Criação de casos e cenários de teste**
+- **Execução de testes funcionais, regressivos e exploratórios**
+- **Testes de API utilizando ferramentas como Postman**
+- **Análise e documentação de bugs**
+- **Noções de metodologias ágeis (Scrum / Kanban)**
 
-## Tecnologias que estou estudando
+Meu objetivo é aplicar a **mentalidade de qualidade desde as fases iniciais do desenvolvimento**, colaborando com times de produto e desenvolvimento para garantir entregas mais **estáveis**, **confiáveis**, **seguras** e alinhadas às necessidades do usuário final.
 
-<div style="display: inline_block"><br/>
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img align="center" alt="git" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-</div>
+Aqui no GitHub, compartilho meus **estudos, projetos práticos e aprendizados em QA**, buscando evoluir continuamente e consolidar minha atuação na área de qualidade de software.
