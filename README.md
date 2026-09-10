@@ -1,18 +1,63 @@
-## 👋 Sobre mim
+# Olá, eu sou o Bruno Lima 👋
 
-Atualmente trabalho com **Suporte Técnico**, atuando como ponto de conexão entre usuários, sistemas e processos, com foco na **resolução de problemas**, **análise de falhas** e **melhoria contínua**. Essa experiência me permitiu desenvolver uma visão analítica sobre o comportamento dos sistemas e o impacto direto de erros e inconsistências na **experiência do usuário**.
+Sou estudante de Engenharia de Software e atuo com Suporte Técnico, investigando falhas em produção, reproduzindo erros, analisando comportamentos inesperados e acompanhando incidentes junto aos times técnicos.
 
-Possuo vivência em **atendimento ao cliente**, **análise de incidentes**, **priorização de demandas** e **acompanhamento de chamados**, sempre buscando identificar a causa raiz dos problemas e propor soluções mais eficientes e sustentáveis.
+Estou direcionando minha carreira para Quality Assurance, unindo minha experiência com sistemas reais aos estudos e projetos práticos de qualidade de software.
 
-Estou em **transição para a área de Quality Assurance (QA)**, com foco em **testes manuais** e **testes de API**, direcionando meus estudos para:
+## 🧪 Atualmente estudo e pratico
 
-- **Validação e análise de requisitos**
-- **Criação de casos e cenários de teste**
-- **Execução de testes funcionais, regressivos e exploratórios**
-- **Testes de API utilizando ferramentas como Postman**
-- **Análise e documentação de bugs**
-- **Noções de metodologias ágeis (Scrum / Kanban)**
+* Testes manuais, funcionais, regressivos e exploratórios
+* Planejamento e criação de cenários e casos de teste
+* Documentação e comunicação de bugs
+* Testes de API com Postman
+* Automação E2E com Playwright e JavaScript
+* Page Object Model
+* Integração contínua com GitHub Actions
+* Git e GitHub
 
-Meu objetivo é aplicar a **mentalidade de qualidade desde as fases iniciais do desenvolvimento**, colaborando com times de produto e desenvolvimento para garantir entregas mais **estáveis**, **confiáveis**, **seguras** e alinhadas às necessidades do usuário final.
+## 🚀 Projetos em destaque
 
-Aqui no GitHub, compartilho meus **estudos, projetos práticos e aprendizados em QA**, buscando evoluir continuamente e consolidar minha atuação na área de qualidade de software.
+### Automação E2E com Playwright
+
+Automação de fluxos reais de uma plataforma web, cobrindo smoke test, dependência de dados, ciclo de vida CRUD e uma jornada completa de atendimento.
+
+O projeto utiliza Playwright, JavaScript, Page Object Model, dados dinâmicos, variáveis de ambiente e integração contínua com GitHub Actions.
+
+🔗 [Acessar projeto de automação E2E](https://github.com/brunohlima/Automacao-E2E)
+
+### Testes de API com Postman
+
+Projeto de testes da API ServeRest, contendo collection do Postman, validações de endpoints e evidências das execuções.
+
+Foram testadas operações de criação, consulta e exclusão de produtos.
+
+🔗 [Acessar projeto de testes de API](https://github.com/brunohlima/api-testing-postman)
+
+## 💼 Experiência aplicada à qualidade
+
+No suporte técnico, trabalho diretamente com:
+
+* Investigação e reprodução de falhas em produção
+* Análise de logs e comportamentos inesperados
+* Validação de regras de negócio
+* Documentação de evidências e passos para reprodução
+* Triagem e acompanhamento de incidentes
+* Comunicação entre usuários e equipes técnicas
+* Identificação de melhorias em sistemas e processos
+
+Essa experiência fortaleceu minha visão crítica sobre estabilidade, experiência do usuário e prevenção de problemas.
+
+## 🛠️ Tecnologias e ferramentas
+
+`Playwright` `Postman` `JavaScript` `Node.js` `Git` `GitHub Actions` `HTML` `CSS` `MySQL`
+
+Também possuo experiência profissional com ferramentas de monitoramento e automação de rotinas, como Grafana, Rundeck e AWX.
+
+## 📚 Em desenvolvimento
+
+Atualmente estou desenvolvendo novos projetos voltados para testes manuais, automação, validação de regras de negócio e aplicação de inteligência artificial em processos do suporte técnico.
+
+---
+
+📍 Bauru, São Paulo
+🎯 Em busca de oportunidades para desenvolver minha carreira em Quality Assurance
