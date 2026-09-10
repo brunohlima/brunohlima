@@ -60,4 +60,5 @@ Atualmente estou desenvolvendo novos projetos voltados para testes manuais, auto
 ---
 
 📍 Bauru, São Paulo
+
 🎯 Em busca de oportunidades para desenvolver minha carreira em Quality Assurance
